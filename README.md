@@ -25,7 +25,4 @@ A collaborative diagram editor and AI-assisted workflow converter, initially dev
 - API Integration with Workflow Platforms (e.g., Camunda, Jira)
 
 ## 🎓 Academic Note
-This project was presented as part of a final MSc thesis at TU Chemnitz.
-
-## 🖼 Screenshots
-To be added from original presentation slides.
+This project was presented as part of a final MSc project at TU Chemnitz.
