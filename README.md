@@ -1,16 +1,31 @@
-# Smart Workflow Web App (MSc Thesis Project)
+# ValorTech – Smart Workflow Modeling Platform
 
-A VueJS-based web application for modeling and managing user workflows, developed as part of my master's thesis at TU Chemnitz.
+A collaborative diagram editor and AI-assisted workflow converter, initially developed as part of a master's project. This platform enables BPMN-based process modeling with AI-driven optimization and a public community marketplace.
 
-## Features
-- Drag-and-drop BPMN modeling
-- Real-time interaction with customized UI components
-- Figma-based responsive design
+## 🔍 Key Features
+- 🧩 Collaborative BPMN Diagram Editor
+- ✍️ AI-powered Text-to-BPMN Conversion
+- 🌐 Community Sharing & Marketplace
+- 📦 Workflow Integration with 3rd party tools
 
-## Stack
-- VueJS, Quasar, TailwindCSS
-- BPMN.io
-- Figma
+## 🛠 Tech Concepts
+- BPMN.io-based Modeling
+- AI/NLP for Workflow Interpretation
+- Web Application Frontend with VueJS & Quasar
+- Modular Architecture for API Expansion
 
-- Implemented full frontend and UI interaction logic
-- Integrated BPMN engine and customized styling
+## 💼 Business Model
+- Subscription Plans (monthly/yearly)
+- Pay-per-Conversion Model
+- Licensing for Enterprise Integration
+
+## 🚀 Future Development
+- Enhanced NLP for accurate conversion
+- ML-based Error Detection & Correction
+- API Integration with Workflow Platforms (e.g., Camunda, Jira)
+
+## 🎓 Academic Note
+This project was presented as part of a final MSc thesis at TU Chemnitz.
+
+## 🖼 Screenshots
+To be added from original presentation slides.
