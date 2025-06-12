@@ -12,9 +12,5 @@ A VueJS-based web application for modeling and managing user workflows, develope
 - BPMN.io
 - Figma
 
-## Screenshots
-(Include any saved design mockups or UI concept if available)
-
-## Role
 - Implemented full frontend and UI interaction logic
 - Integrated BPMN engine and customized styling
